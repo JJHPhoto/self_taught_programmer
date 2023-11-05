@@ -48,3 +48,14 @@ elif age == 90:
   print('What you still doing here?')
 else:
   print('How drunk am I?')
+
+# Solution
+age = 64
+retirement = age - 65
+
+if retirement < 10: 
+  print('You get to retire soon.')
+else:
+  print('You have a long time until you can retire!')
+
+# Funny how solution had retirement and mine was more about drinking. I feel like my answer fits the description but isn't different enough from the other challenges. 
