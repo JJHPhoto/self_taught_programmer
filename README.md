@@ -19,3 +19,7 @@ Of course the first day I start getting back into coding I almost want to take a
 1. From the looks of it, I'll be using the shell to practice Comparison Operators. Just getting flashbacks to learning Salesforce & Java on the fly and hoping I passed the evaluation. I did, the second time.
 2. The explanation of the difference between `==` and `=` would have been very helpful. Its knowledge I had but the vacabulary used makes more sense reding it here than when I was learning JS.
 3. Gonna just ignore the fact that my numbered notes aren't indenting properly.
+
+## Third Thoughts
+
+Functions today. Hoping that I can finish this chapter but rough sleep last night has me hoping to just get to the first challenge. We shall see.
