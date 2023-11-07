@@ -23,3 +23,13 @@ Of course the first day I start getting back into coding I almost want to take a
 ## Third Thoughts
 
 Functions today. Hoping that I can finish this chapter but rough sleep last night has me hoping to just get to the first challenge. We shall see.
+
+## Third notes
+
+1. I completely forgot that Python lets you return a result of 'None'. I feel like JS doesn't let you do that and will throw an error.
+2. 'float', 'str' & 'int' remind me of trying to learn Apex formulas for Salesforce.
+3. Fading before the challenge. Just worn ragged by knee pain keeping me up most of the night.
+
+## Fourth Thoughts
+
+Still on the Functions chapter. Trying to get something in today after another sleepless night & long day.
