@@ -37,3 +37,9 @@ Still on the Functions chapter. Trying to get something in today after another s
 ## Day 5
 
 Switching langague to be more in line with my folders but leaving old 'thoughs' idea for ref. Still working through the Functions chapter.
+
+## Day 6
+
+Going to try to finish the challenges today. Realizing from the answers that I'm still not grasping some concepts. Trying to not be frustrated as I'm cramming these in last minute but it is disappointing where I'm at.
+
+Totally mashed up the idea of Challenge 6. Oh well. Live and learn. Pitter patter!
