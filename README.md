@@ -33,3 +33,7 @@ Functions today. Hoping that I can finish this chapter but rough sleep last nigh
 ## Fourth Thoughts
 
 Still on the Functions chapter. Trying to get something in today after another sleepless night & long day.
+
+## Day 5
+
+Switching langague to be more in line with my folders but leaving old 'thoughs' idea for ref. Still working through the Functions chapter.
