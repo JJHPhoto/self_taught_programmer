@@ -43,3 +43,9 @@ Switching langague to be more in line with my folders but leaving old 'thoughs' 
 Going to try to finish the challenges today. Realizing from the answers that I'm still not grasping some concepts. Trying to not be frustrated as I'm cramming these in last minute but it is disappointing where I'm at.
 
 Totally mashed up the idea of Challenge 6. Oh well. Live and learn. Pitter patter!
+
+## Day 7
+
+Containers time! Lists, tuples and dictionaries. Those are words. Well, at least two of them are.
+
+Ok, made it through the 'Lists' section and I don't think I have the brain for 'Tuples'. The word just makes my head hurt.
