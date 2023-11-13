@@ -49,3 +49,11 @@ Totally mashed up the idea of Challenge 6. Oh well. Live and learn. Pitter patte
 Containers time! Lists, tuples and dictionaries. Those are words. Well, at least two of them are.
 
 Ok, made it through the 'Lists' section and I don't think I have the brain for 'Tuples'. The word just makes my head hurt.
+
+## Day 8 (technically 10)
+
+Just gonna soldier on, even though I 'missed' two days of coding due to various health things sapping any energy I have. What do we have today? Tuples... yeah, that's a word.
+
+The comma needed even if there's only one item in the Tuple is interesting.
+
+Tuples being used as keys in dictionaries is interesting. Also for things that don't change like geo coordinates.
