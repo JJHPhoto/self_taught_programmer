@@ -57,3 +57,7 @@ Just gonna soldier on, even though I 'missed' two days of coding due to various 
 The comma needed even if there's only one item in the Tuple is interesting.
 
 Tuples being used as keys in dictionaries is interesting. Also for things that don't change like geo coordinates.
+
+## Day 9
+
+Containers in containers time! Now I'm thinking of the line "I'll put that in a box inside of an other box inside another box, mail it to myself and smash it with a hammer!"
