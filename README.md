@@ -61,3 +61,11 @@ Tuples being used as keys in dictionaries is interesting. Also for things that d
 ## Day 9
 
 Containers in containers time! Now I'm thinking of the line "I'll put that in a box inside of an other box inside another box, mail it to myself and smash it with a hammer!"
+
+## Day 10
+
+The plan is to finish the Containers challenges. We shall see if lack of sleep prevents that.
+
+Only did three for the locations cause apparently the site I was using had a data quota.... And I did it wrong. I thought I was supposed to make a [] but decided to just make tuples.
+
+It looks like the main argument for using Sets is the speed of being able to check the membership of a value in a Set.
