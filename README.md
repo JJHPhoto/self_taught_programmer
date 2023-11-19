@@ -69,3 +69,11 @@ The plan is to finish the Containers challenges. We shall see if lack of sleep p
 Only did three for the locations cause apparently the site I was using had a data quota.... And I did it wrong. I thought I was supposed to make a [] but decided to just make tuples.
 
 It looks like the main argument for using Sets is the speed of being able to check the membership of a value in a Set.
+
+## Day 11
+
+Give or take a few. Starting chapter 6 'String Manipulation' before finishing packing for the next flight. Hoping to find a good place to stop.
+
+So, does triple strings work as more than a way to make notations?
+
+Concatenation... always stumpled on saying that word and I think it caused me to have issues using this method cause I couldn't explain it.
