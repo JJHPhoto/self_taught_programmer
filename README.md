@@ -77,3 +77,11 @@ Give or take a few. Starting chapter 6 'String Manipulation' before finishing pa
 So, does triple strings work as more than a way to make notations?
 
 Concatenation... always stumpled on saying that word and I think it caused me to have issues using this method cause I couldn't explain it.
+
+## Day 12
+
+Finding days where I can but cramming in a lot of photography while here near Angkor Wat.
+
+Bacslash to escape Python's special meanings for characters, for instance \'\'. Interesting that you dn't need to escape single quotes inside double quotes and vice versa.
+
+I always got confused withe slicing index thing. To me, I'd often think where you sliced the index was included, but I'd often learn that the slice was the end and not included.
