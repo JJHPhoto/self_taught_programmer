@@ -85,3 +85,7 @@ Finding days where I can but cramming in a lot of photography while here near An
 Bacslash to escape Python's special meanings for characters, for instance \'\'. Interesting that you dn't need to escape single quotes inside double quotes and vice versa.
 
 I always got confused withe slicing index thing. To me, I'd often think where you sliced the index was included, but I'd often learn that the slice was the end and not included.
+
+## Day 13
+
+Let's see how many challenges I can get done!
