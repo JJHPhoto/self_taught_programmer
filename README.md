@@ -89,3 +89,7 @@ I always got confused withe slicing index thing. To me, I'd often think where yo
 ## Day 13
 
 Let's see how many challenges I can get done!
+
+I should have looked up other capitalization methods when I saw mine turned the upper case H into a lower case in Challenge 3. Hmmmm... that's not right either. I guess I'll just use the `.capitalize()` method and not the `.title()` one since that's closer to the challenge description.
+
+Ok. My issue with the answer to Challenge 4 is that it doesn't include the '?' which is requested in the challenged. I knew I could split it at the '?' but I was looking for a method that included the '?'. I'm going to figure I am still reading these challenges wrong and move forward because I 'had the answer' but didn't understand the question properly.
