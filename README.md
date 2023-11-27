@@ -93,3 +93,7 @@ Let's see how many challenges I can get done!
 I should have looked up other capitalization methods when I saw mine turned the upper case H into a lower case in Challenge 3. Hmmmm... that's not right either. I guess I'll just use the `.capitalize()` method and not the `.title()` one since that's closer to the challenge description.
 
 Ok. My issue with the answer to Challenge 4 is that it doesn't include the '?' which is requested in the challenged. I knew I could split it at the '?' but I was looking for a method that included the '?'. I'm going to figure I am still reading these challenges wrong and move forward because I 'had the answer' but didn't understand the question properly.
+
+With Challenge 5, I didn't think to remove the '.' using a '-2' indexing and then add it back at the end of the string.
+
+Challenge 6 was pretty simple, I need to get into the habit of using the same variable as I update it as opposed to creating new variables each time like in JS.
