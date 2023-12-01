@@ -94,6 +94,20 @@ I should have looked up other capitalization methods when I saw mine turned the 
 
 Ok. My issue with the answer to Challenge 4 is that it doesn't include the '?' which is requested in the challenged. I knew I could split it at the '?' but I was looking for a method that included the '?'. I'm going to figure I am still reading these challenges wrong and move forward because I 'had the answer' but didn't understand the question properly.
 
+## Day 14
+
 With Challenge 5, I didn't think to remove the '.' using a '-2' indexing and then add it back at the end of the string.
 
 Challenge 6 was pretty simple, I need to get into the habit of using the same variable as I update it as opposed to creating new variables each time like in JS.
+
+## Day 15
+
+Hoping to finish the challenges but jet lag is rough at the moment.
+
+With Challenge 7, I had the right logic but I just added unnecessary code using the `try/catch` method.
+
+Challenge 8 was more simple than I expected. I keep doing this. I keep expecting things to be more difficult than necessary.
+
+I really need to do these challenges quicker. I keep pushing them off till it has been a few days/weeks since I read the chapter. I completely forgot about the concat & mult methods that were used in Challenge 9.
+
+Challenge 10 was a something I understood but didn't know. I understood what I was supposed to do, but I didn't know I had to `slice` at the index. I thought I could at the `','`.
