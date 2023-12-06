@@ -111,3 +111,9 @@ Challenge 8 was more simple than I expected. I keep doing this. I keep expecting
 I really need to do these challenges quicker. I keep pushing them off till it has been a few days/weeks since I read the chapter. I completely forgot about the concat & mult methods that were used in Challenge 9.
 
 Challenge 10 was a something I understood but didn't know. I understood what I was supposed to do, but I didn't know I had to `slice` at the index. I thought I could at the `','`.
+
+## Day 16
+
+Jet lag has been rough but looking forward to getting back into this book. Though, Loops were never my strong suite.
+
+I am enjoying the `for-loops` in Python. Much less complicated that JS. Or maybe this guy explains it better than Anthony.
