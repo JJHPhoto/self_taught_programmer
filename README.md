@@ -117,3 +117,11 @@ Challenge 10 was a something I understood but didn't know. I understood what I w
 Jet lag has been rough but looking forward to getting back into this book. Though, Loops were never my strong suite.
 
 I am enjoying the `for-loops` in Python. Much less complicated that JS. Or maybe this guy explains it better than Anthony.
+
+## Day 17
+
+I am enjoying getting some coding in during the mornings before the day gets going. Today I'll be working in `Range` of `for-loops`.
+
+Oh, I guess `Range` is just a small part of this chapter. On to `While-Loops`. Those were interesting when I was working in `Java/Apex`.
+
+Ok, I'll end at the `Break`. Get it?
