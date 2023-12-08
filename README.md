@@ -125,3 +125,15 @@ I am enjoying getting some coding in during the mornings before the day gets goi
 Oh, I guess `Range` is just a small part of this chapter. On to `While-Loops`. Those were interesting when I was working in `Java/Apex`.
 
 Ok, I'll end at the `Break`. Get it?
+
+## Day 18
+
+Continuing with the `Continue` statement. I'm here all day folks!
+
+Now on to a Nested Loop. I wonder where that nest is...
+
+Outer and inner loops. This reminds me of `APEX` or `Java`.
+
+Its still weird to me how lists look like variable sin `JS` but you're not using syntax like `let`, `const`, or `var`.
+
+Stopping here before starting the challenges and going over the vocab.
