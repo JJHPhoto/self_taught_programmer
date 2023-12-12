@@ -137,3 +137,7 @@ Outer and inner loops. This reminds me of `APEX` or `Java`.
 Its still weird to me how lists look like variable sin `JS` but you're not using syntax like `let`, `const`, or `var`.
 
 Stopping here before starting the challenges and going over the vocab.
+
+## Day 19
+
+Seeing what I can get done today with the challenges.
