@@ -141,3 +141,9 @@ Stopping here before starting the challenges and going over the vocab.
 ## Day 19
 
 Seeing what I can get done today with the challenges.
+
+## Day 20
+
+`Modules` today. Ok. I'll pretend I remember what that means.
+
+Ok... its being modular. Which was something Anthony would often talk about when we were building `Components` in `React`.
