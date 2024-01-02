@@ -147,3 +147,13 @@ Seeing what I can get done today with the challenges.
 `Modules` today. Ok. I'll pretend I remember what that means.
 
 Ok... its being modular. Which was something Anthony would often talk about when we were building `Components` in `React`.
+
+## Day 21
+
+Been off for a few days and hoping that I can get some practice in today. Also, need to disable some extensions that I'd rather not keep from previous projects.
+
+## Day 22
+
+Sort of. Holidays got me away from coding and then the motivation to get back to it was lacking. Lets see what the new year brings!
+
+Looks like I'm still in the 'Files' chapter. Here we go....
