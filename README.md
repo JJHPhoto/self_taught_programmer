@@ -157,3 +157,9 @@ Been off for a few days and hoping that I can get some practice in today. Also, 
 Sort of. Holidays got me away from coding and then the motivation to get back to it was lacking. Lets see what the new year brings!
 
 Looks like I'm still in the 'Files' chapter. Here we go....
+
+Didn't know that CSV stood for Comma Separated Values.
+
+## Day 23
+
+Got discouraged by the challenges but trying to get some familiarity before the coding challenge for a job app.
